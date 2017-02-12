@@ -1,23 +1,19 @@
 ---
-layout: default
+layout: gallery
+title: A More Complex Example
+no_menu_item: true # required only for this example website because of menu construction
+support: [jquery, gallery]
 ---
 
-<div class="home">
+This example shows how to include several galleries into one page. Also notice that some captions have been set.
 
-  <h1 class="page-heading">Posts</h1>
+{% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival-1 id_number=1 %}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+The pictures from part two:
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+{% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival-2 id_number=2 %}
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+This is an example gallery. All images licensed under [CC-BY-NC-SA license][license]. Check the [Git Repo][repo] for a copy of this license.
 
-</div>
+[license]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[repo]: https://github.com/opieters/jekyll-gallery-example

@@ -2,14 +2,12 @@ picture_path: lilly-in-oxford
 preview:
   filename: my-owners-are-animals
   original: my-owners-are-animals.JPG
+  thumbnail: my-owners-are-animals-thumbnail.JPG
   title: My owners are animals
   caption: Lilly realises her owners are very, very messy
 pictures:
-- filename: my-owners-are-animals
-  original: my-owners-are-animals.JPG
-  title: My owners are animals
-  caption: Lilly realises her owners are very, very messy
-- filename: my-furry-friends
-  original: my-furry-friends.jpg
-  title: My furry friends
-  caption: These are some of the other animals in the house!
+- filename: lilly-zupnik
+  original: lilly-zupnik.jpg
+  thumbnail: lilly-zupnik-thumbnail.jpg
+  title: Zupnik loves cats
+  caption: Proof everyone loves Lilly

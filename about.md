@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# Lillycat
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Lilly cat is the best cat, she's lovingly cared for by Marion and Martin
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+# Code and Stuff
+
+This awesome Jekyll image gallery has been forked from [https://github.com/opieters/jekyll-image-gallery-example](https://github.com/opieters/jekyll-image-gallery-example).

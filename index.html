@@ -5,13 +5,23 @@ no_menu_item: true # required only for this example website because of menu cons
 support: [jquery, gallery]
 ---
 
+# Lilly
+
+{% include gallery-layout.html gallery=site.data.galleries.lilly-in-oxford id_number=1 %}
+
+
+# Old
+
 This example shows how to include several galleries into one page. Also notice that some captions have been set.
 
-{% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival-1 id_number=1 %}
+
+
+
+{% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival-1 id_number=2 %}
 
 The pictures from part two:
 
-{% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival-2 id_number=2 %}
+{% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival-2 id_number=3 %}
 
 This is an example gallery. All images licensed under [CC-BY-NC-SA license][license]. Check the [Git Repo][repo] for a copy of this license.
 

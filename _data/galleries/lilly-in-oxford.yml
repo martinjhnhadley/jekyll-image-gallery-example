@@ -1,0 +1,15 @@
+picture_path: lilly-in-oxford
+preview:
+  filename: my-owners-are-animals
+  original: my-owners-are-animals.JPG
+  title: My owners are animals
+  caption: Lilly realises her owners are very, very messy
+pictures:
+- filename: my-owners-are-animals
+  original: my-owners-are-animals.JPG
+  title: My owners are animals
+  caption: Lilly realises her owners are very, very messy
+- filename: my-furry-friends
+  original: my-furry-friends.jpg
+  title: My furry friends
+  caption: These are some of the other animals in the house!

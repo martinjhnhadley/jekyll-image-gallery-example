@@ -8,6 +8,7 @@ permalink: /about/
 
 Lilly cat is the best cat, she's lovingly cared for by Marion and Martin
 
+<center><img src="images/IMG_3139.jpg" width="500px"></center>
 
 # Code and Stuff
 

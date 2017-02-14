@@ -6,24 +6,19 @@ preview:
   title: My owners are animals
   caption: Lilly realises her owners are very, very messy
 pictures:
-- filename: lilly-zupnik
-  original: lilly-zupnik.JPG
-  thumbnail: lilly-zupnik-thumbnail.JPG
-  title: Zupnik loves cats
-  caption: Proof everyone loves Lilly
 - filename: my-owners-are-animals
   original: my-owners-are-animals.JPG
   thumbnail: my-owners-are-animals-thumbnail.JPG
   title: My owners are animals
   caption: Lilly realises her owners are very, very messy
 - filename: lilly-with-awkward-martin
-  original: lilly-with-awkward-martin.JPG
-  thumbnail: lilly-with-awkward-martin-thumbnail.JPG
+  original: lilly-with-awkward-martin.jpg
+  thumbnail: lilly-with-awkward-martin-thumbnail.jpg
   title: Lilly is useful for grovelling
   caption: Martin uses Lilly to curry favour far too often
 - filename: lilly-sad
-  original: lilly-sad.JPG
-  thumbnail: lilly-sad-thumbnail.JPG
+  original: lilly-sad.jpg
+  thumbnail: lilly-sad-thumbnail.jpg
   title: Lilly is sad
   caption: Lilly remembers she has not been fed!
 - filename: lilly-loves-tesco
@@ -32,8 +27,8 @@ pictures:
   title: Lilly loves Tesco
   caption: Lilly loves living in carrier bags, she is a bag cat
 - filename: lilly-likes-head-cuddles
-  original: lilly-likes-head-cuddles.JPG
-  thumbnail: lilly-likes-head-cuddles-thumbnail.JPG
+  original: lilly-likes-head-cuddles.jpg
+  thumbnail: lilly-likes-head-cuddles-thumbnail.jpg
   title: Lilly loves head cuddles
   caption: Stroke my head!
 - filename: lilly-is-martins-beard
@@ -47,10 +42,15 @@ pictures:
   title: Lilly stretching in front of the fire
   caption: Lilly is a cat of leisure and sophistication
 - filename: lilly-doesnt-like-whiskey
-  original: lilly-doesnt-like-whiskey.JPG
-  thumbnail: lilly-doesnt-like-whiskey-thumbnail.JPG
+  original: lilly-doesnt-like-whiskey.jpg
+  thumbnail: lilly-doesnt-like-whiskey-thumbnail.jpg
   title: Lilly does not like whisky
   caption: Why do humans drink it?
+- filename: lilly-zupnik
+  original: lilly-zupnik.JPG
+  thumbnail: lilly-zupnik-thumbnail.JPG
+  title: Zupnik loves cats
+  caption: Proof everyone loves Lilly
 
 
 
